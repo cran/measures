@@ -1,12 +1,12 @@
-fc2bbccda97a06a1572206ca75b18750 *DESCRIPTION
+4c61630ca8306bf14a0707ef9bdfdfe3 *DESCRIPTION
 344acccbf6b916163e2433fdc79b18b2 *NAMESPACE
 4a5f2a488a3c8e5400f05c43f90cfba0 *R/helpers.R
-b9b87dc288cb789770c213e8661025f4 *R/listAllMeasures.R
+d8725b92d3c20a30db209f7a0ee32e01 *R/listAllMeasures.R
 15efffb97b9807f110b0676956292592 *R/measures_binaryclass.R
 c018d7ce277566410c008fa1f54d1409 *R/measures_multiclass.R
 aa79dbf9bee9ea64697dcaead5fdf93c *R/measures_multilabel.R
 f327424d0917524bbf878ab63d4f8ca4 *R/measures_regression.R
-d0272b55d42b203d6c5e71f53480d9b9 *R/sysdata.rda
+81ed806fffdb1053183fa64038a40d34 *R/sysdata.rda
 b281526014c71f007ede8cabe5a50e30 *README.md
 f6ca331450efb653617fef1b67d3e771 *man/ACC.Rd
 7e25e0bffb8ab0cc700c9479f17299fa *man/ARSQ.Rd
